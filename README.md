@@ -4,3 +4,13 @@
 
 #### This repository contains all the work I have done in the 2 Jupyter Notebooks in the Jupyter Notebooks folder. Do download the Jupyter Notebook's raw file to fix the formatting within the individual cells (the preview compresses the lines together) or open them in Google Colab using the links below. The Demo preparation folder contains the zip file that was then uploaded to Hugging Face spaces. You can access the built model demo application at "https://huggingface.co/spaces/purplelord2003/Urban_Segmentor". 
 
+Notebook 1 (training model):
+<a target="_blank" href="https://github.com/purplelord2003/Segmentation-Model/blob/main/Jupyter%20Notebooks/Urban_Segmentor_(training).ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+Notebook 2 (testing and deploying model):
+<a target="_blank" href="https://github.com/purplelord2003/Segmentation-Model/blob/main/Jupyter%20Notebooks/Urban_Segmentor_(testing_and_deployment).ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
