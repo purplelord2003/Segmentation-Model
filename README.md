@@ -7,4 +7,4 @@
 # Summary
 I attempted to train the [YOLOv8 model](https://docs.ultralytics.com/tasks/segment/) on the [cityscapes dataset](https://www.cityscapes-dataset.com/) for 50 epochs which was done in the [training notebook](https://github.com/purplelord2003/Segmentation-Model/blob/main/Jupyter%20Notebooks/Urban_Segmentor_(testing_and_deployment).ipynb). 
 
-I then tested the model's speed in real-time by timing the frames per second of the output video from the model using OpenCV. I then created scripts and deployed the demo application on Hugging Face spaces. These were done in the [testing and deploying notebook](https://github.com/purplelord2003/Segmentation-Model/blob/main/Jupyter%20Notebooks/Urban_Segmentor_(testing_and_deployment).ipynb)
+I then tested the model's speed in real-time by timing the frames per second of the output video from the model using OpenCV. I then created scripts and deployed the demo application on Hugging Face spaces. These were done in the [testing and deploying notebook](https://github.com/purplelord2003/Segmentation-Model/blob/main/Jupyter%20Notebooks/Urban_Segmentor_(testing_and_deployment).ipynb).
