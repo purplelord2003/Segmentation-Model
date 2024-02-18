@@ -1,1 +1,2 @@
 Examples/Videos/Example[[:space:]]1.mp4 filter=lfs diff=lfs merge=lfs -text
+Testing/*.mp4 filter=lfs diff=lfs merge=lfs -text
