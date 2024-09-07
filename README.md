@@ -1,5 +1,5 @@
 # Instance Segmentation Model (Urban Segmentor)
-### Deployed app demo: https://huggingface.co/spaces/purplelord2003/Urban_Segmentor
+### Deployed app demo: https://huggingface.co/spaces/purplelord2003/Urban-Segmentor
 
 ## Introduction
 When I was doing the object detection model in the [`Object Detection Model`](https://github.com/purplelord2003/Object-Detection-Model) repository, I actually came across the [YOLOv8](https://docs.ultralytics.com/) architecture but ended up using a pre-trained Faster R-CNN model in PyTorch (Torchvision) instead. I decided that in this repository, we take things up a notch further to go beyond simple object detection to instance segmentation by applying masks to the instances. I also decided to use the YOLOv8 architecture and get used to the Ultralytics interface, given that the YOLOv8 models (and their predecessors) have good inference accuracy with fast inference speeds, making it more feasible to be used in real-time detections/segmentations.
